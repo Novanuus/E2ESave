@@ -608,14 +608,22 @@
     },
     "49:10": {
       "questID:3": 50,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 1,
+          "uuid:8": "30187833-4646-4bcb-aeaa-0f116bb6f6bd",
+          "timestamp:4": 1744574026669
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
+          "completeUsers:9": {
+            "0:8": "30187833-4646-4bcb-aeaa-0f116bb6f6bd"
+          },
           "userProgress:9": {
             "0:10": {
               "data:9": {
-                "0:3": 9
+                "0:3": 16
               },
               "uuid:8": "30187833-4646-4bcb-aeaa-0f116bb6f6bd"
             }
@@ -804,7 +812,16 @@
       "tasks:9": {
         "0:10": {
           "completeUsers:9": {},
-          "userProgress:9": {},
+          "userProgress:9": {
+            "0:10": {
+              "data:9": {
+                "0:3": 1,
+                "1:3": 0,
+                "2:3": 1
+              },
+              "uuid:8": "30187833-4646-4bcb-aeaa-0f116bb6f6bd"
+            }
+          },
           "index:3": 0,
           "taskID:8": "bq_standard:retrieval"
         }
@@ -1605,11 +1622,29 @@
     },
     "129:10": {
       "questID:3": 130,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 1,
+          "uuid:8": "30187833-4646-4bcb-aeaa-0f116bb6f6bd",
+          "timestamp:4": 1744574029868
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "30187833-4646-4bcb-aeaa-0f116bb6f6bd"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "data:9": {
+                "0:3": 3,
+                "1:3": 1,
+                "2:3": 1,
+                "3:3": 1
+              },
+              "uuid:8": "30187833-4646-4bcb-aeaa-0f116bb6f6bd"
+            }
+          },
           "index:3": 0,
           "taskID:8": "bq_standard:retrieval"
         }
