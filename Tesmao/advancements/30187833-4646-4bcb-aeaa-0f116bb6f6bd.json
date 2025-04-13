@@ -1,0 +1,26 @@
+{
+  "nuclearcraft:root": {
+    "criteria": {
+      "location": "2025-04-12 17:39:55 -0700"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2025-04-12 17:39:56 -0700"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-04-12 17:39:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-04-12 17:55:53 -0700"
+    },
+    "done": true
+  }
+}
